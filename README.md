@@ -1,4 +1,43 @@
-# Web Translation application
+`# Web Translation application
+This project allows users to record audio or upload an MP3 file and translate it into another language. The application provides an intuitive interface for managing audio files and transcription.
+
+## Features
+
+- Record custom audio
+- Upload MP3 files
+- Transcribe audio files
+- Translate transcriptions to other languages
+
+## Live Demo
+
+Check out the live version of the app [here](https://webtranslation.netlify.app/).
+
+## Screenshots
+
+### Home Page
+![Home Page](page1.jpeg)
+
+### Transcription Page
+![Transcription Page](page2.jpeg)
+
+## Usage
+
+1. **Recording Audio:**
+   - Click on the record button to start recording your audio.
+   - Once done, the audio will be displayed with an option to transcribe and translate.
+
+2. **Uploading Audio:**
+   - Click on the upload button to select an MP3 file from your device.
+   - The uploaded audio will be displayed with options to transcribe and translate.
+
+3. **Transcribing Audio:**
+   - Click on the "Transcribe" button to convert the audio to text.
+   - The transcription will be displayed on the screen.
+
+4. **Translating Text:**
+   - After transcription, select the desired language for translation.
+   - Click on the "Translate" button to get the translated text.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
