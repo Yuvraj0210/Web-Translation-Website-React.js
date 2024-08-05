@@ -1,4 +1,4 @@
-`# Web Translation application
+# Web Translation application
 This project allows users to record audio or upload an MP3 file and translate it into another language. The application provides an intuitive interface for managing audio files and transcription.
 
 ## Features
@@ -15,10 +15,10 @@ Check out the live version of the app [here](https://webtranslation.netlify.app/
 ## Screenshots
 
 ### Home Page
-![Home Page](page1.jpeg)
+![Home Page](Page1.jpeg)
 
 ### Transcription Page
-![Transcription Page](page2.jpeg)
+![Transcription Page](Page2.jpeg)
 
 ## Usage
 
